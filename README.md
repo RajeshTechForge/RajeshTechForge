@@ -4,13 +4,13 @@
 
 Hi there 👋. I'm Rajesh Mondal, a school student currently diving into the exciting world of programming, particularly with Python.  My passion lies in exploring **Machine Learning** and **Artificial Intelligence**, eager to unlock their potential with code. 
 
-**Tech Stack:**
+### Tech Stack:
 
 * **Python:** Crafting projects to learn and grow my skills. 
 * **Machine Learning & AI:** Learning Machine Learning to explore the fascinating possibilities of intelligent systems. 
 * **Linux:** Ubuntu is my daily companion, providing a versatile and open-source platform. 
 
-**What I Do:**
+### What I Do:
 
 * Building diverse projects to apply my Python knowledge and gain practical experience. 
 * Immersing myself in the learning journey of Machine Learning and AI, eager to contribute to these evolving fields. 
