@@ -2,7 +2,7 @@
 
 #  About Me
 
-Hi there 👋. I'm Rajesh Mondal, a school student currently diving into the exciting world of programming, particularly with **Python**.  My passion lies in exploring **Machine Learning** and **Artificial Intelligence**, eager to unlock their potential with code. 
+Hi there 👋. I'm Rajesh Mondal, a student currently diving into the exciting world of programming, particularly with **Python**.  My passion lies in exploring **Machine Learning** and **Artificial Intelligence**, eager to unlock their potential with code. 
 
 ### What I Do:
 
