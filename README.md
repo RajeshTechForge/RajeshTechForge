@@ -20,5 +20,3 @@ Hi there 👋. I'm Rajesh Mondal, a student currently diving into the exciting w
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=rmondal-official&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
