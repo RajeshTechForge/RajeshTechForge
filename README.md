@@ -2,17 +2,27 @@
 
 #  About Me
 
-Hello everyone 👋. I'm Rajesh Mondal, a student who builds cool open-source projects with mainly **Python**.  My passion lies in exploring **Machine Learning** and **Artificial Intelligence**, eager to unlock their potential with code. 
+Hello, world! 👋 I'm Rajesh Mondal, a recent high school graduate with a knack for creating innovative open-source projects. My coding journey began in 2020 with Python, and since then, I've been captivated by the possibilities of Automation and Machine Learning. I'm also well-versed in HTML, CSS, JavaScript, and MySQL, which complement my Python expertise.
 
 ### What I Do:
 
-* Building diverse projects to apply my Python knowledge and gain practical experience. 
-* Immersing myself in the learning journey of Machine Learning and AI, eager to contribute to these evolving fields. 
-* Using Ubuntu as my primary operating system, enjoying its flexibility and community.
-* Contributing to the open-source.  
+- **Developing Open-Source Projects**: Leveraging my strong Python foundation to build applications that solve real-world problems.
+- **Learning Automation & Machine Learning**: Diving deep into these exciting domains to harness their power and contribute meaningful innovations.
+- **Expanding My Skill Set**: Continuously learning and adding new technologies like HTML, CSS, JavaScript, and MySQL to my repertoire.
+- **Embracing Ubuntu**: Enjoying the robustness and community support of Ubuntu as my primary operating system.
+- **Contributing to Open-Source**: Actively participating in the open-source community to share knowledge and collaborate with fellow enthusiasts.
 
-#  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+I'm on a mission to transform my passion for technology into impactful solutions. Let's code a better future together!
+
+#  Languages & Libraries:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rmondal-official&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rmondal-official&theme=tokyonight&hide_border=false)<br/>
@@ -20,3 +30,5 @@ Hello everyone 👋. I'm Rajesh Mondal, a student who builds cool open-source pr
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
