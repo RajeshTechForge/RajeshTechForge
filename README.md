@@ -2,7 +2,7 @@
 
 #  About Me
 
-Hello, world! 👋 I'm Rajesh Mondal, a recent high school graduate with a knack for creating innovative open-source projects. My coding journey began in 2020 with Python, and since then, I've been captivated by the possibilities of Automation and Machine Learning. I'm also well-versed in HTML, CSS, JavaScript, and MySQL, which complement my Python expertise.
+Hello, world! 👋 I'm **Rajesh Mondal**, a recent high school graduate with a knack for creating innovative open-source projects. **My coding journey began in 2020 with Python**, and since then, I've been captivated by the possibilities of **Automation** and **Machine Learning**. I'm also well-versed in **HTML, CSS, JavaScript**, and **MySQL**, which complement my **Python expertise**.
 
 ### What I Do:
 
