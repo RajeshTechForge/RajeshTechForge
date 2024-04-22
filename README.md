@@ -23,10 +23,10 @@ I'm on a mission to transform my passion for technology into impactful solutions
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rmondal-official&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rmondal-official&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rmondal-official&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RajeshTechForge&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RajeshTechForge&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshTechForge&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
