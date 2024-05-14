@@ -2,17 +2,17 @@
 
 #  About Me
 
-Hello, world! 👋 I'm **Rajesh Mondal**, a student creating innovative open-source projects. **My coding journey began in 2020 with Python**, and since then, I've been captivated by the possibilities of **Automation** and **Machine Learning**. I'm also well-versed in **HTML, CSS, JavaScript**, and **MySQL**, which complement my **Python expertise**.
+I'm a programming enthusiast student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning and Artificial Intelligence. Along the way, I have also developed proficiency in HTML, CSS, JavaScript, React, and MySQL.
 
 ### What I Do:
 
-- **Developing Open-Source Projects**: Leveraging my strong Python foundation to build applications that solve real-world problems.
-- **Learning Automation & Machine Learning**: Diving deep into these exciting domains to harness their power and contribute meaningful innovations.
-- **Expanding My Skill Set**: Continuously learning and adding new technologies like HTML, CSS, JavaScript, and MySQL to my repertoire.
-- **Embracing Ubuntu**: Enjoying the robustness and community support of Ubuntu as my primary operating system.
-- **Contributing to Open-Source**: Actively participating in the open-source community to share knowledge and collaborate with fellow enthusiasts.
+- **Developing Open-Source Projects**: Using my strong Python skills to create applications that address real-world challenges.
+- **Learning Machine Learning**: Delving into these fascinating areas to unlock their potential and make significant contributions.
+- **Expanding My Skill Set**: Consistently upgrading my coding expertise and staying informed about the latest tools and technologies.
+- **Embracing Linux**: Loving the experience of using Ubuntu-based **Zorin OS** as my go-to operating system.
+- **Contributing to Open-Source**: Actively engaging with the open-source community to share knowledge and collaborate with other enthusiasts.
 
-I'm on a mission to transform my passion for technology into impactful solutions. Let's code a better future together!
+I'm committed to turning my passion for technology into impactful solutions. Let's code a brighter future together!  
 
 #  Languages & Libraries:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -20,8 +20,6 @@ I'm on a mission to transform my passion for technology into impactful solutions
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajeshtechforge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
