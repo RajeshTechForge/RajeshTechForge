@@ -9,7 +9,7 @@ I'm a programming enthusiast student creating innovative open-source projects. M
 - **Developing Open-Source Projects**: Using my strong Python skills to create applications that address real-world challenges.
 - **Learning Machine Learning**: Delving into these fascinating areas to unlock their potential and make significant contributions.
 - **Expanding My Skill Set**: Consistently upgrading my coding expertise and staying informed about the latest tools and technologies.
-- **Embracing Linux**: Loving the experience of using Ubuntu-based **Zorin OS** as my go-to operating system.
+- **Embracing Linux**: Loving the experience of using **Ubuntu** as my go-to operating system. Past experience with Windows, Kali Linux,and Zorin OS.
 - **Contributing to Open-Source**: Actively engaging with the open-source community to share knowledge and collaborate with other enthusiasts.
 
 I'm committed to turning my passion for technology into impactful solutions. Let's code a brighter future together!  
