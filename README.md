@@ -29,6 +29,6 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshtechforge&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshtechforge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
