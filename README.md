@@ -20,7 +20,7 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![](https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,vite,mongodb,mysql,linux,git)
+![](https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,react,vite,mongodb,mysql,linux,git)
 
 <br>
 
