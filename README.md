@@ -2,7 +2,7 @@
 
 #  About Me
 
-I'm a programming enthusiast and a student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning and Artificial Intelligence. Along the way, I have also developed proficiency in HTML, CSS, JavaScript, React, and MySQL.
+I'm a programming enthusiast and a student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning and Artificial Intelligence.
 
 ### What I Do:
 
@@ -25,10 +25,5 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajeshtechforge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshtechforge&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshtechforge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rajeshtechforge&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshtechforge&theme=tokyonight&hide_border=false)
