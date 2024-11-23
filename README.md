@@ -18,9 +18,8 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 
 ![🦜-langchain(2)](https://github.com/RajeshTechForge/RajeshTechForge/assets/78198704/f44f34b6-e145-4905-b973-82723b9d2025)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![](https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,react,electron,vite,mongodb,mysql,linux,git)
+![](https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,tailwind,react,nextjs,electron,vite,mysql,linux,git)
 
 <br>
 
