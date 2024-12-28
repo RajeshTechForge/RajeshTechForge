@@ -1,10 +1,10 @@
 <img src="https://github.com/rmondal-official/rmondal-official/blob/main/assets/banner-min.jpg?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-#  About Me
+# ✌️ About Me
 
 I'm a programming enthusiast and a student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning, generative AI, and its use cases.
 
-### What I Do:
+### ⚡ What I Do?
 
 - **Developing Open-Source Projects**: Using my strong Python skills to create applications that address real-world challenges.
 - **Learning Machine Learning**: Delving into these fascinating areas to unlock their potential and make significant contributions.
