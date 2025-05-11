@@ -4,7 +4,7 @@
 
 I'm a programming enthusiast and a student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning, generative AI, and its use cases.
 
-### ⚡ What I Do?
+### ⚡ What do I Do?
 
 - **Developing Open-Source Projects**: Using my strong Python skills to create applications that address real-world challenges.
 - **Learning Machine Learning**: Delving into these fascinating areas to unlock their potential and make significant contributions.
@@ -19,7 +19,7 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 ![🦜-langchain(2)](https://github.com/RajeshTechForge/RajeshTechForge/assets/78198704/f44f34b6-e145-4905-b973-82723b9d2025)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-![](https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,tailwind,react,nextjs,electron,vite,mysql,linux,git)
+![](https://skillicons.dev/icons?i=c,python,javascript,typescript,tailwind,react,electron,mysql,linux,git)
 
 <br>
 
