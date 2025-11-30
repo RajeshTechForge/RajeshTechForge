@@ -16,7 +16,4 @@ I'm committed to turning my passion for technology into impactful solutions. Let
 
 # Languages & Libraries:
 
-![🦜-langchain(2)](https://github.com/RajeshTechForge/RajeshTechForge/assets/78198704/f44f34b6-e145-4905-b973-82723b9d2025)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![](https://skillicons.dev/icons?i=c,python,javascript,typescript,tailwind,react,electron,mysql,linux,git)
