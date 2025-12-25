@@ -1,23 +1,25 @@
 <img src="https://github.com/rmondal-official/rmondal-official/blob/main/assets/banner-min.jpg?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-# ✌️ About Me
+# 🚀 Hello, I'm Rajesh Mondal
 
-I'm a programming enthusiast and a student creating innovative open-source projects. My programming journey started in 2020 with Python, and I am particularly interested in Machine Learning, generative AI, and its use cases.
+**Computer Science Undergraduate | Python Specialist | AI/ML Enthusiast**
 
-### ⚡ What do I Do?
+I am a CSE 4th Sem student with a five-year foundation in **Python** development. Since 2020, I have transitioned from writing scripts to architecting open-source solutions and exploring the frontier of **Generative AI** and **Machine Learning**. I thrive at the intersection of complex logic and real-world utility.
 
-- **Developing Open-Source Projects**: Using my strong Python skills to create applications that address real-world challenges.
-- **Learning Machine Learning**: Delving into these fascinating areas to unlock their potential and make significant contributions.
-- **Expanding My Skill Set**: Consistently upgrading my coding expertise and staying informed about the latest tools and technologies.
-- **Embracing Linux**: Loving the experience of using **Fedora** as my go-to operating system. Experience with Windows, Ubuntu, Pop-OS and Kali Linux.
-- **Contributing to Open Source**: Actively engaging with the open-source community to share knowledge and collaborate with other enthusiasts.
+### 🛠️ Core Focus & Expertise
 
-I'm committed to turning my passion for technology into impactful solutions. Let's code a brighter future together!  
+* **Open-Source Development:** Architecting Python-based applications designed to solve real-world problems.
+* **Artificial Intelligence:** Deep-diving into ML models and Generative AI workflows to build the next generation of intelligent tools.
+* **System Environments:** A dedicated **Fedora Linux** power user with a versatile background across Ubuntu, Pop!_OS, and Kali.
+* **Collaborative Innovation:** An active contributor to the open-source ecosystem, believing that the best software is built through community and shared knowledge.
 
-# Skills & Stats:
+**"Turning complex problems into elegant, impactful code."**
 
-![](https://skillicons.dev/icons?i=c,python,javascript,typescript,tailwind,react,electron,mysql,docker,linux,git)
+# 🧠 Skills:
 
+![](https://skillicons.dev/icons?i=python,c,javascript,typescript,tailwind,react,electron,mysql,docker,linux,git)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshtechforge&show_icons=true&theme=onedark&locale=en" alt="rajeshtechforge" /></p>
+# 🔥 Stats:
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rajeshtechforge&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rajeshtechforge&theme=onedark)
