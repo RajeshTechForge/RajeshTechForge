@@ -17,7 +17,7 @@ I am a CSE 4th Sem student with a five-year foundation in **Python** development
 
 # 🧠 Skills:
 
-![](https://skillicons.dev/icons?i=python,c,javascript,typescript,tailwind,react,electron,mysql,postgresql,docker,linux,git)
+![](https://skillicons.dev/icons?i=python,c,javascript,typescript,tailwind,react,mysql,postgresql,docker,linux,git)
 
 # 🔥 Stats:
 
