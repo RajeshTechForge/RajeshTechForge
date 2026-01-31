@@ -2,7 +2,7 @@
 
 # 🚀 Hello, I'm Rajesh Mondal
 
-**Computer Science Undergraduate | Python Specialist | AI/ML Enthusiast**
+**CSE Undergraduate | Python Specialist | AI/ML Enthusiast**
 
 I am a CSE 4th Sem student with a five-year foundation in **Python** development. Since 2020, I have transitioned from writing scripts to architecting open-source solutions and exploring the frontier of **Generative AI** and **Machine Learning**. I thrive at the intersection of complex logic and real-world utility.
 
