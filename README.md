@@ -10,7 +10,7 @@ I am a CSE 4th Sem student with a five-year foundation in **Python** development
 
 * **Open-Source Development:** Architecting Python-based applications designed to solve real-world problems.
 * **Artificial Intelligence:** Deep-diving into ML models and Generative AI workflows to build the next generation of intelligent tools.
-* **System Environments:** A dedicated **Fedora Linux** power user with a versatile background across Ubuntu, Pop!_OS, and Kali.
+* **System Environments:** A dedicated **Arch Linux** power user with a versatile background across Ubuntu, Fedora, Pop!_OS, and Kali.
 * **Collaborative Innovation:** An active contributor to the open-source ecosystem, believing that the best software is built through community and shared knowledge.
 
 **"Turning complex problems into elegant, impactful code."**
