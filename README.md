@@ -1,23 +1,40 @@
-<img src="https://github.com/rmondal-official/rmondal-official/blob/main/assets/banner-min.jpg?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<img width="3000" height="1000" alt="Like   Follow" src="https://github.com/user-attachments/assets/56af3d64-bbac-4472-ac3a-c1fd7de9546c" />
 
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
+</p><p align="center">
+  
 # 🚀 Hello, I'm Rajesh Mondal
 
-**CSE Undergraduate | Python Specialist | AI/ML Enthusiast**
+### CSE Undergraduate | Open-Souce Enthusiast
 
-I am a CSE 4th Sem student with a five-year foundation in **Python** development. Since 2020, I have transitioned from writing scripts to architecting open-source solutions and exploring the frontier of **Generative AI** and **Machine Learning**. I thrive at the intersection of complex logic and real-world utility.
+I am a B.Tech CSE student with strong foundation in **Python**. Since 2020, I have transitioned from writing scripts to architecting open-source solutions and exploring the frontier of **Generative AI** and **Machine Learning**. I thrive at the intersection of complex logic and real-world utility.
 
 ### 🛠️ Core Focus & Expertise
 
 * **Open-Source Development:** Architecting Python-based applications designed to solve real-world problems.
 * **Artificial Intelligence:** Deep-diving into ML models and Generative AI workflows to build the next generation of intelligent tools.
-* **System Environments:** A dedicated **Arch Linux** power user with a versatile background across Ubuntu, Fedora, Pop!_OS, and Kali.
+* **System:** A dedicated **Arch + Hyprland** setup, with a versatile background across Ubuntu, Fedora, Pop!_OS, and Kali.
 * **Collaborative Innovation:** An active contributor to the open-source ecosystem, believing that the best software is built through community and shared knowledge.
 
 **"Turning complex problems into elegant, impactful code."**
 
 # 🧠 Skills:
 
-![](https://skillicons.dev/icons?i=python,c,javascript,typescript,tailwind,react,mysql,postgresql,docker,linux,git)
+### Languages
+![](https://skillicons.dev/icons?i=c,python,javascript,typescript,java)
+
+### Libraries
+![](https://skillicons.dev/icons?i=vite,react,electron,nextjs,tailwind,firebase,fastapi,sklearn)
+
+### My dev tools
+![](https://skillicons.dev/icons?i=vscode,arch,git,github,obsidian)
+
+### Others
+![](https://skillicons.dev/icons?i=linux,bash,mysql,postgresql,mongodb,docker,cloudflare,aws)
 
 # 🔥 Stats:
 
