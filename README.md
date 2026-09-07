@@ -1,4 +1,4 @@
-<img width="3000" height="1000" alt="Like   Follow" src="https://github.com/user-attachments/assets/56af3d64-bbac-4472-ac3a-c1fd7de9546c" />
+<p align="center"><img align="center" src="./.github/new_banner.jpg"/></p>
 
 <br>
 <p align="center">
