@@ -24,10 +24,10 @@ I am a B.Tech CSE student with strong foundation in **Python**. Since 2020, I ha
 
 # 🧠 Skills:
 
-![](https://skillicons.dev/icons?i=c,python,rust,javascript,typescript,java)  
-![](https://skillicons.dev/icons?i=vite,react,tailwind,nextjs,astro)  
-![](https://skillicons.dev/icons?i=electron,tauri,supabase,firebase,fastapi,sklearn)  
-![](https://skillicons.dev/icons?i=linux,git,bash,mysql,postgresql,mongodb,docker,cloudflare,aws)  
+![](https://mb.rajeshmondal.com/icons?i=c,python,rust,javascript,typescript,java)  
+![](https://mb.rajeshmondal.com/icons?i=vite,react,tailwind,nextjs,astro)  
+![](https://mb.rajeshmondal.com/icons?i=electron,tauri,supabase,firebase,fastapi,sklearn)  
+![](https://mb.rajeshmondal.com/icons?i=linux,git,bash,mysql,postgresql,mongodb,docker,cloudflare,aws)  
 
 # 🔥 Stats:
 
